@@ -1,2 +1,2 @@
 # 2024-Module1
-Repo for class
+Repo for class ok
